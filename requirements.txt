@@ -1,0 +1,8 @@
+streamlit==1.31.0
+docling==0.5.0
+lancedb==0.5.0
+sentence-transformers==2.3.1
+google-generativeai==0.3.2
+pandas==2.0.0
+openpyxl==3.1.2
+langchain==0.1.0
